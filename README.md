@@ -73,3 +73,5 @@ Notes
 Les scripts create_app et jeton_access sont inclus à titre d'exemple, mais ne doivent pas être exécutés.
 
 Les accès Mastodon fournis sont déjà prêts à l'emploi.
+
+Le fichier tweets_dataset.csv est le fichier d'entrainement qui doit être importer pour pouvoir executer la partie 4.
